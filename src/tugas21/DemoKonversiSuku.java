@@ -1,4 +1,4 @@
-package tugas2;
+package tugas21;
 
 public class DemoKonversiSuku {
     public static void main(String[] args) {

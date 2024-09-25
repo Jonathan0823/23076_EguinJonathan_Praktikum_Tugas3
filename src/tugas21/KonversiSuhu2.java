@@ -1,4 +1,4 @@
-package tugas2;
+package tugas21;
 
 // Melakukan inheritance dari class KonversiSuhu
 public class KonversiSuhu2 extends KonversiSuhu {

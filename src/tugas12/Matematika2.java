@@ -1,4 +1,4 @@
-package tugas1;
+package tugas12;
 
 /**
  * Matematika2
