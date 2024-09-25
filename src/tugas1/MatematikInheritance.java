@@ -1,4 +1,4 @@
-package tugas12;
+package tugas1;
 
 public class MatematikInheritance {
     public static void main(String[] args) {
